@@ -1,2 +1,2 @@
 # Me
-My personal KEG site
+My personal Knowledge Exchange Grid (KEG) site
